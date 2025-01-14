@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+beautifulsoup4
+datetime
+unidecode
+quote
+psycopg2-binary
+sqlalchemy
+openpyxl
+html5lib
