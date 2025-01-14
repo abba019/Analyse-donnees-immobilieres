@@ -1,5 +1,3 @@
-# MIG8110
-
 ## Setup
 
 Launch Docker Desktop, and make your current repository the one for
@@ -56,3 +54,5 @@ $ docker-compose --profile update-db-dw down          # to end
 
 This will both start the application and update the database and the
 datawarehouse.
+
+# Copyright Hamadoun Dicko, Guillaume Lafreniere, Manuella Esther, Mamadou Sow
