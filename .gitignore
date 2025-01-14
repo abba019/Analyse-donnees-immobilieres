@@ -1,0 +1,4 @@
+*.csv
+*.html
+*_files/
+.DS_Store

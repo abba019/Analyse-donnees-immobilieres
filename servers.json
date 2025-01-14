@@ -1,0 +1,11 @@
+{
+    "Servers": {
+      "1": {
+        "Name": "$$POSTGRES_SERVER_NAME",
+        "Host": "$$POSTGRES_HOST",
+        "Port": "$$POSTGRES_PORT",
+        "Username": "$$POSTGRES_USER",
+        "Password": "$$POSTGRES_PASSWORD"
+      }
+    }
+  }
